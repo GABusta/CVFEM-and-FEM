@@ -8,7 +8,7 @@ Se analizaron distintos casos de estudio:
   ![Screenshot](01.png)
   
   Se obtienen las soluciones de Distribución de Temperaturas estacionaria (en grados celsius)
-  ![Screenshot](FEM- Temperaturas - trian_10.png)
+  ![Screenshot](02.png)
   
 El código implementado realiza:
  * Las simulaciones correspondientes,
