@@ -10,4 +10,8 @@ Se analizaron distintos casos de estudio:
   Se obtienen las soluciones de Distribución de Temperaturas estacionaria (en grados celsius)
   ![Screenshot](FEM- Temperaturas - trian_10.png)
   
-
+El código implementado realiza:
+ * Las simulaciones correspondientes,
+ * Corrección de las normales de los elementos, de forma de seguir una numeración de los mismos en una dirección predefinida,
+ * un informe acerca de la condición de la matriz global, la cantidad de nodos y elementos empleados en cada estudio,
+ * Todas las gráficas correspondientes a cada uno de los casos de estudio.
