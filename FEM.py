@@ -1,5 +1,5 @@
 import numpy as np
-
+# otro cmabio
 def FiniteElement(nodos, elem, k, tipo):
     # puntos de integración
     rg, sg, w, H, dH = Gauss_dif_Forma(tipo)
