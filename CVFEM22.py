@@ -1,5 +1,6 @@
 import numpy as np
-
+#some other
+#otra modificacoin
 def VolumenControl(nodos, elem, nodosVC, k, tipo):
     KG = np.zeros([len(nodos.xnod), len(nodos.xnod)])
     RG = np.zeros(len(nodos.xnod))

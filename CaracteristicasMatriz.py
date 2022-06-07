@@ -1,6 +1,8 @@
 import numpy as np
 import os
-
+#  mejora 222
+# asdfasdfasd
+# otra mejora
 def matrices(nodos, elem, tipo, Ktotal, RutaTexto, tiempo):
 
     determinante = np.zeros(len(elem[:, 0]))
